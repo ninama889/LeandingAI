@@ -1,1 +1,1 @@
-# LeandingAI
+# ClimateAI
